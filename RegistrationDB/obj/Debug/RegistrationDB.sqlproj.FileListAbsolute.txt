@@ -1,0 +1,12 @@
+C:\Users\flordn\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.dacpac
+C:\Users\flordn\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.dll
+C:\Users\flordn\source\repos\RegistrationSQLServer\RegistrationDB\bin\Debug\RegistrationDB.pdb
+C:\Users\flordn\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.sqlprojAssemblyReference.cache
+C:\Users\flordn\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.dll
+C:\Users\flordn\source\repos\RegistrationSQLServer\RegistrationDB\obj\Debug\RegistrationDB.pdb
+C:\Users\Johnny\Desktop\RegistrationSQLServer-master\RegistrationDB\bin\Debug\RegistrationDB.dacpac
+C:\Users\Johnny\Desktop\RegistrationSQLServer-master\RegistrationDB\bin\Debug\RegistrationDB.dll
+C:\Users\Johnny\Desktop\RegistrationSQLServer-master\RegistrationDB\bin\Debug\RegistrationDB.pdb
+C:\Users\Johnny\Desktop\RegistrationSQLServer-master\RegistrationDB\obj\Debug\RegistrationDB.sqlprojAssemblyReference.cache
+C:\Users\Johnny\Desktop\RegistrationSQLServer-master\RegistrationDB\obj\Debug\RegistrationDB.dll
+C:\Users\Johnny\Desktop\RegistrationSQLServer-master\RegistrationDB\obj\Debug\RegistrationDB.pdb
